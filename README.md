@@ -12,3 +12,4 @@ Password Validator pseudocode: Allows for user input. Prompts the user to enter 
 
 Created a Dockerfile for IS147Test1 to allow for building and running IS147Test1 in a containerized environment. This creates a more organized project.  
 
+Modified Dockerfile from Task #3 to allow for github workflow. Created Github Action uing Github UI. Dorcas committed and pushed her changes to trigger the GitHub Action.
